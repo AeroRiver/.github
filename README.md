@@ -48,8 +48,7 @@ O fluxo de trabalho na organização é baseado em branches e merges.
    - O pré requisito para atualização da develop é que os códigos tenham sido testados e validados em simulação SITL e sem erros de tempo de compilação.
 
 3. **Pipeline exemplo**
-    ![Pipeline](https://github.com/AeroRiver/AeroRiverDocs/main/blob/main/docs/pipeline.png)
-<p align="center>
+<p align="center">
   <img src="https://github.com/AeroRiver/AeroRiverDocs/main/blob/main/docs/pipeline.png" alt="Pipeline">
 </p>
 
