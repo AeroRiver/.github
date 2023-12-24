@@ -4,13 +4,13 @@
 
 A AeroRiver Organization visa criar um ambiente de versionamento e desenvolvimento dos códigos relacionados ao projeto AeroRiver. Temos dois repositórios principais:
 
-1. **[ArduPilot](link_do_repositorio_ardupilot):**
+1. **[ArduPilot](https://github.com/AeroRiver/ArduPilot):**
    - Repositório público que contém o trabalho realizado até agora.
    - Um fork do repositório de Matheus Miquelini, que, por sua vez, é um fork do código original e estável do ArduPilot.
    - Atualizado e sincronizado com base nas alterações do repositório pessoal do Matheus.
    - Contém a branch master da versão original e estável do ArduPilot para restauração e estudo do código base.
 
-2. **[AeroRiver-ArduPilot](link_do_repositorio_aeroriver_ardupilot):**
+2. **[AeroRiver-ArduPilot](https://github.com/AeroRiver/AeroRiver-ArduPilot):**
    - Repositório privado para salvar e versionar alterações e códigos de voo específicos da AeroRiver.
    - Guarda versões e releases privadas.
    - Possui 4 branches e um fluxo de trabalho próprio.
