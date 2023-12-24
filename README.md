@@ -49,7 +49,7 @@ O fluxo de trabalho na organização é baseado em branches e merges.
 
 3. **Pipeline exemplo**
 <p align="center">
-  <img src="https://github.com/AeroRiver/AeroRiverDocs/main/blob/main/docs/pipeline.jpg" alt="Pipeline">
+  <img src="https://github.com/AeroRiver/AeroRiverDocs/blob/main/docs/pipeline.jpg" alt="Pipeline">
 </p>
 
 ## Outras Considerações:
