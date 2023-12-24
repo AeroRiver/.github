@@ -1,7 +1,7 @@
 # Documentação da AeroRiver Organization
-<center>
-![AeroRiver](https://github.com/AeroRiver/AeroRiverDocs/blob/main/docs/untitled.png)
-</center>
+<p align="center">
+  <img src="https://github.com/AeroRiver/AeroRiverDocs/blob/main/docs/untitled.png" alt="AeroRiver">
+</p>
 
 ## Repositórios Principais
 
