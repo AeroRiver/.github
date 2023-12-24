@@ -32,7 +32,7 @@ A AeroRiver Organization visa criar um ambiente de versionamento e desenvolvimen
 
 - **gndefmode_develop, land_develop e ademais branches:**
   - Além das branches principais, outras serão criadas seguindo o fluxo de trabalho. Até o momento, há duas branches referentes aos projetos em desenvolvimento, sendo eles o projeto de criação do modo de voo de efeito solo (mantido 
-  anteriormente em [gndef_mode](https://github.com/OMiquelini/ardupilot/tree/gndef_mode), e o projeto do código de pouso (mantido anteriormente em [test_land](https://github.com/OMiquelini/ardupilot/tree/test_land).
+  anteriormente em [gndef_mode](https://github.com/OMiquelini/ardupilot/tree/gndef_mode)), e o projeto do código de pouso (mantido anteriormente em [test_land](https://github.com/OMiquelini/ardupilot/tree/test_land)).
 
 ## Fluxo de Trabalho
 
