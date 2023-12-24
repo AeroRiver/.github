@@ -48,9 +48,9 @@ O fluxo de trabalho na organização é baseado em branches e merges.
    - O pré requisito para atualização da develop é que os códigos tenham sido testados e validados em simulação SITL e sem erros de tempo de compilação.
 
 3. **Pipeline exemplo**
-   <p align="center>
-     <img src="https://github.com/AeroRiver/AeroRiverDocs/main/blob/main/docs/pipeline.png alt="Pipeline">
-   </p>
+<p align="center>
+  <img src="https://github.com/AeroRiver/AeroRiverDocs/main/blob/main/docs/pipeline.png" alt="Pipeline">
+</p>
 
 ## Outras Considerações:
    - Padronização: Novas branches devem ser nomeadas como `<nome>_develop`.
